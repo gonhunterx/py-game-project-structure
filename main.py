@@ -116,7 +116,7 @@ What would you like to do?
 2. Farm exp
 3. Gamble
 4. View stats
-5. auct
+5. Auction
 6. Exit
               """)
         choice = input("Input: ")
